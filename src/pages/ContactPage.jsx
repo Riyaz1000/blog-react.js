@@ -1,3 +1,7 @@
+import FooterPage from "../layouts/FooterPage";
+
+// console.log(Footer);
+
 const ContactPage = () => {
   return (
     <div className="flex mx-[300px] ">
